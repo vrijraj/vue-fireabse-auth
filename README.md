@@ -1,5 +1,7 @@
 # vue-firebase-auth
 
+In this tutorial, we will see how to quickly build a web application with an authentication system using Vue 2, vue-router and Firebase.
+
 ## Project setup
 ```
 npm install
